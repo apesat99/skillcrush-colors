@@ -62,9 +62,14 @@ header {
   }
   #column-3 {
     background-color: green;
+    width: 100%;
   }
   footer {
     background-color: blue;
+  }
+
+  .col-3 {
+    width: 50%;
   }
 }
 
@@ -82,11 +87,14 @@ header {
   }
   #column-3 {
     background-color: yellow;
+    width: 33.3%;
   }
   footer {
     background-color: red;
   }
-
+  .col-3 {
+    width: 33.3%;
+  }
 }
 
 /*---------- FOOTER ----------*/
